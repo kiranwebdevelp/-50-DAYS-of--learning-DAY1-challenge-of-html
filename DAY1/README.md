@@ -25,7 +25,6 @@
 
 
 
-### Visit the site: [https://netflix-clone-two-wine.vercel.app/](https://netflix-clone-two-wine.vercel.app/)
 
 
 ## How to Run
